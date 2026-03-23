@@ -1,4 +1,4 @@
-# Pretty Good AI Voice Assistant
+# Real Time AI Voice Assistant
 
 AI-powered outbound caller that routes audio between Twilio, Deepgram, and a Groq-hosted LLM so an assistant can join real phone calls in real time.
 
