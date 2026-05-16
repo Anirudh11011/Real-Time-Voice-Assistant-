@@ -87,6 +87,6 @@ To run the full application end-to-end:
 - **LLM errors**: check Groq quota and keys; backend falls back to an apology message if LLM fails.
  
 ## 9. Notes
-- For architecture details, see [ARCHITECTURE.md](ARCHITECTURE.md).
+- For architecture details, see [ARCHITECTURE.md](Architecture_design.md).
 - All call logs can be extracted using the `generate_call_report.py` script, which writes an HTML report to `call_report.html` (or a path you specify with `--output`).
 - `important_calls.html` is the selected important call transcript that can be viewed from a browser.
